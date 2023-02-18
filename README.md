@@ -3,4 +3,3 @@ Finix was a basically a template of themeforest website. but here i have made th
 
 
 Visit Website from this link: http://jabedkhanjb.github.io/finix
-@
